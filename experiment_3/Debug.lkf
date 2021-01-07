@@ -1,0 +1,2 @@
+-z -a -c -heap200 -m"./Debug/expt4.map" -o"./Debug/expt4.out" -stack200 -w -x -i"C:/CCStudio_v3.3/C6000/csl/lib" -i"C:/CCStudio_v3.3/C6000/xdais/lib" -i"C:/CCStudio_v3.3/bios_5_31_02/packages/ti/bios/lib" -i"C:/CCStudio_v3.3/bios_5_31_02/packages/ti/rtdx/lib/c6000" -i"C:/CCStudio_v3.3/C6000/cgtools/lib" -l"rts6700.lib"
+"E:\5th semester 2017\Digital Signal Processing Lab\experiment3&4\prabhaa\Debug\circular_convolution.obj"

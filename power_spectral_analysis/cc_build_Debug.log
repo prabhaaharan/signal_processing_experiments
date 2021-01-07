@@ -1,0 +1,7 @@
+--------------------  power_spectral_analysis.pjt - Debug  --------------------
+Warning: The project has no cmd file while the Text Linker is selected
+[Linking...] "C:\CCStudio_v3.3\C6000\cgtools\bin\cl6x" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 1 Warnings, 0 Remarks.

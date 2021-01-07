@@ -1,0 +1,2 @@
+-z -a -c -heap200 -m"./Debug/power_spectral_analysis.map" -o"./Debug/power_spectral_analysis.out" -stack200 -w -x -i"C:/CCStudio_v3.3/C6000/csl/lib" -i"C:/CCStudio_v3.3/C6000/xdais/lib" -i"C:/CCStudio_v3.3/bios_5_31_02/packages/ti/bios/lib" -i"C:/CCStudio_v3.3/bios_5_31_02/packages/ti/rtdx/lib/c6000" -i"C:/CCStudio_v3.3/C6000/cgtools/lib" -l"rts6700.lib"
+"E:\5th semester 2017\Digital Signal Processing Lab\power_spectral_analysis\Debug\power_spectral_analysis.obj"
